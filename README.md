@@ -1,6 +1,6 @@
 # 🚀 Aaryan Saraswat - Full Stack Developer Portfolio
-![Portfolio Screenshot](<img width="1894" height="812" alt="image" src="https://github.com/user-attachments/assets/41e516ea-b603-436d-ad32-77109271e715" />
-)  
+<img width="1894" height="812" alt="image" src="https://github.com/user-attachments/assets/522960d3-d209-4f79-87e0-e49ad43e93d0" />
+
 *Modern, performant portfolio showcasing my technical expertise*  
 
 ## 🌟 Features  
