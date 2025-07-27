@@ -95,10 +95,10 @@ const Contact = () => {
                 <div>
                   <h4 className="text-sm font-medium text-purple-300 mb-1">Phone</h4>
                   <a 
-                    href="tel:+91-9123186232" 
+                    href="tel:+91-9205768564" 
                     className="text-gray-300 hover:text-white transition-colors"
                   >
-                    +91 9123186232
+                    +91 9205768564
                   </a>
                 </div>
               </div>
@@ -108,7 +108,7 @@ const Contact = () => {
               <h4 className="text-sm font-medium text-purple-300 mb-4">CONNECT WITH ME</h4>
               <div className="flex gap-4">
                 <a 
-                  href="https://www.linkedin.com/in/rohit-kumpan/" 
+                  href="https://www.linkedin.com/in/aaryan-saraswat/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-700/50 rounded-lg border border-gray-600/30 hover:bg-purple-900/30 hover:border-purple-500/30 transition-all"
@@ -117,7 +117,7 @@ const Contact = () => {
                   <FiLinkedin className="text-gray-300 hover:text-white" />
                 </a>
                 <a 
-                  href="https://github.com/rohit9123" 
+                  href="https://github.com/AaryanSaraswat" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-700/50 rounded-lg border border-gray-600/30 hover:bg-purple-900/30 hover:border-purple-500/30 transition-all"
@@ -126,7 +126,7 @@ const Contact = () => {
                   <FiGithub className="text-gray-300 hover:text-white" />
                 </a>
                 <a 
-                  href="https://leetcode.com/rohitkumpan01/" 
+                  href="https://leetcode.com/u/AaryanSaraswat/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-700/50 rounded-lg border border-gray-600/30 hover:bg-purple-900/30 hover:border-purple-500/30 transition-all"
