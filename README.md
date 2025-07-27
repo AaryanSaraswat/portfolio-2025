@@ -1,5 +1,6 @@
-# 🚀 Rohit Kumar - Full Stack Developer Portfolio
-![Portfolio Screenshot](https://github.com/user-attachments/assets/27e3470c-4eea-4789-b3a3-d6ad202e2a2d)  
+# 🚀 Aaryan Saraswat - Full Stack Developer Portfolio
+<img width="1894" height="812" alt="image" src="https://github.com/user-attachments/assets/522960d3-d209-4f79-87e0-e49ad43e93d0" />
+
 *Modern, performant portfolio showcasing my technical expertise*  
 
 ## 🌟 Features  
@@ -69,4 +70,4 @@ While this is my personal portfolio, I welcome suggestions:
 3. Submit a pull request  
 
 ## 📜 License  
-**MIT License** – © 2025 Rohit Kumar 
+**MIT License** – © 2025 Aaryan Saraswat 
