@@ -19,7 +19,7 @@ const Home = () => {
         <div>
           <h1 className="text-5xl md:text-7xl font-extrabold mb-4">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500">
-              <span className="bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 inline-block cursor-pointer select-none"> Hi, I'm Aaryan Saraswat</span>
+              <span className="bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 inline-block cursor-pointer select-none"> Hi, I'm Ishu Saraswat</span>
             </span>
           </h1>
           <div className=''></div>
